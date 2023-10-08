@@ -11,7 +11,7 @@ The Meme Generator project with React offers the following features:
 - Real-time text customization options (font, size, color).
 - Instant meme generation with live preview.
 
-##Installation and Usage
+## Installation
 
 Follow these steps to set up the Meme Generator project on your local machine:
 
