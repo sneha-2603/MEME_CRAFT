@@ -17,13 +17,13 @@ Follow these steps to set up the Meme Generator project on your local machine:
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/meme-generator-react.git
+   git clone https://github.com/sneha-2603/meme_craft
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd meme-generator-react
+   cd meme_craft
    ```
 
 3. Install the project dependencies using npm or yarn:
