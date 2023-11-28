@@ -1,4 +1,4 @@
-![Screenshot 2023-11-29 023210](https://github.com/sneha-2603/meme_craft/assets/91029405/9ccc4fe3-a14f-4a58-992d-6471ad7e06cd)﻿# MEME_CRAFT
+﻿# MEME_CRAFT
 
 The Meme_craft project is a fun and interactive web application built using React.
 It uses HTML, CSS, JavaScript, React, and OpenAPI It allows users to create custom memes by adding text captions to images. This README file provides an overview of the project, instructions for setting it up, and usage guidelines.
