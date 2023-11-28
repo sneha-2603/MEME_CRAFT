@@ -1,4 +1,4 @@
-﻿# MEME_CRAFT
+![Screenshot 2023-11-29 023210](https://github.com/sneha-2603/meme_craft/assets/91029405/9ccc4fe3-a14f-4a58-992d-6471ad7e06cd)﻿# MEME_CRAFT
 
 The Meme_craft project is a fun and interactive web application built using React.
 It uses HTML, CSS, JavaScript, React, and OpenAPI It allows users to create custom memes by adding text captions to images. This README file provides an overview of the project, instructions for setting it up, and usage guidelines.
@@ -6,10 +6,12 @@ It uses HTML, CSS, JavaScript, React, and OpenAPI It allows users to create cust
 ## Features
 
 The Meme Generator project with React offers the following features:
-
-- Image upload and URL support.
 - Real-time text customization options (font, size, color).
 - Instant meme generation with live preview.
+
+![Screenshot 2023-11-29 023210](https://github.com/sneha-2603/meme_craft/assets/91029405/3751ff66-646a-4764-b858-14190cc620b9)
+
+![Screenshot 2023-11-29 023219](https://github.com/sneha-2603/meme_craft/assets/91029405/29f55e2f-025d-4ea2-b335-1cf8382200c0)
 
 ## Installation
 
@@ -44,16 +46,16 @@ Follow these steps to set up the Meme Generator project on your local machine:
    ```
 
 5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the Meme_craft application.
+   
 
 ## Usage
 
 Using the Meme_craft is straightforward and enjoyable:
 
 1. Open the web application in your browser.
-2. Upload an image from your computer or provide a URL to an image.
-3. Add text to the top and bottom of the image to create your meme.
-4. Customize the text with various fonts, sizes, and colors.
-5. Click the "Generate Meme" button to see your meme in real-time.
+2. Add text to the top and bottom of the image to create your meme.
+3. Customize the text with various fonts, sizes, and colors.
+4. Click the "Generate Meme" button to see your meme in real-time.
 
 
 ## Contributing
